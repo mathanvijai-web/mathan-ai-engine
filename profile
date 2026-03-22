@@ -1,1 +1,1 @@
-web: python ccs_server.py
+web: python app.py
